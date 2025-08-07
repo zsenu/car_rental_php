@@ -1,0 +1,107 @@
+body
+{
+    background-color: #121212;
+    color: #fff;
+}
+header
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #1c1c1c;
+    padding: 10px 20px;
+    z-index: 1000;
+}
+header h1
+{
+    margin: 0;
+    font-size: 24px;
+}
+header .buttons
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+header .buttons a
+{
+    text-decoration: none;
+    color: #fff;
+    background-color: #f5a623;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+main { padding: 100px 20px 20px; }
+.car-details
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.car-image
+{
+    flex: 1 1 300px;
+    max-width: 500px;
+}
+.car-image img
+{
+    width: 100%;
+    border-radius: 10px;
+}
+.car-info
+{
+    flex: 1 1 300px;
+    background-color: #1c1c1c;
+    padding: 20px;
+    border-radius: 10px;
+}
+.car-info h2 { margin: 0 0 10px; }
+.car-info p { margin: 5px 0; }
+.car-info .price
+{
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.car-buttons
+{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+.car-buttons button
+{
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.car-buttons .date-btn
+{
+    background-color: #007bff;
+    color: #fff;
+}
+.car-buttons .book-btn
+{
+    background-color: #28a745;
+    color: #fff;
+}
+.back-button
+{
+    margin-top: 40px;
+    text-align: center;
+}
+.back-button a
+{
+    text-decoration: none;
+    color: #fff;
+    background-color: #f5a623;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}

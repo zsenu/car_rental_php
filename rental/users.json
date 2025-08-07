@@ -1,0 +1,27 @@
+[
+    {
+        "fullname": "Adminisztr\u00e1tor",
+        "email": "admin@ikarrental.hu",
+        "password": "$2y$10$OCslBDaHpaVsBOSofbvdx.UCdCD5SGvmhDhT2VcfDF4ksZW\/1OBIW"
+    },
+    {
+        "fullname": "Toth Eugen",
+        "email": "babtea@email.com",
+        "password": "$2y$10$hy6h.QP6H7DZwjlxRzPzEun4Fu5hkA1FC4BYnTro02LQ7Ve7pRxaK"
+    },
+    {
+        "fullname": "Felhasznalo_1",
+        "email": "a@b.c",
+        "password": "$2y$10$GQ\/2tAQw606bhlSrBnNkRe2qAhCQ\/GnNrYss9xy8th6g6SM49FhbK"
+    },
+    {
+        "fullname": "Felhasznalo_2",
+        "email": "a@b.c",
+        "password": "$2y$10$m9H.YIHRRQbUhcHxlyteY.n\/6IIqknAp92utxiQAW9II5N5vuEtDO"
+    },
+    {
+        "fullname": "Nevem",
+        "email": "hah@asd.com",
+        "password": "$2y$10$eOznLMDlo.rkw.itKUfzK.6JdsY033IpE18pgp9XqQvNmeSoHgWMG"
+    }
+]
